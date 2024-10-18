@@ -1,0 +1,46 @@
+﻿@model List<Course>
+@{
+    ViewData["Title"] = "Index course";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tracks - Online Learning Platform</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+
+
+    </head>
+    <body>
+
+  
+<h2 class="text-center my-4">Course List</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var course in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm">
+                    <img src="@course.ImageUrl" class="card-img-top" alt="Course Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@course.Title</h5>
+                        <p class="card-text">
+                            <strong>Track:</strong> @course?.Track.Name
+                        </p>
+                        <a href="@Url.Action("Edit", new { id = course.CourseId })" class="btn btn-primary">Edit</a>
+                        <a href="@Url.Action("Delete", new { id = course.CourseId })" class="btn btn-danger">Delete</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="text-center">
+        <a href="@Url.Action("Create")" class="btn btn-success mt-4">Add New Course</a>
+    </div>
+</div>
+</body>
+</html>

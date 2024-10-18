@@ -1,0 +1,93 @@
+﻿@{
+    ViewData["Title"] = "فيديوهات الكورس";
+    var courseId = ViewBag.CourseId;  
+}
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        video {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>فيديوهات الكورس - ID: @courseId</h1>
+
+        <!-- الفيديو الرئيسي -->
+        <video id="mainVideo" controls>
+            <source src="/videos/Html_Video1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+
+        <!-- جدول الفيديوهات الأخرى -->
+        <table id="videoTable">
+            <tr data-src="/videos/Html_Video1.mp4">
+                <td>مقدمة في HTML</td>
+            </tr>
+            <tr data-src="/videos/Html_Video2.mp4">
+                <td>هيكل الصفحة</td>
+            </tr>
+            <tr data-src="/videos/Html_Video3.mp4">
+                <td>عناصر HTML الأساسية</td>
+            </tr>
+        </table>
+    </div>
+
+    <script>
+        const mainVideo = document.getElementById('mainVideo');
+        const videoTable = document.getElementById('videoTable');
+
+        // تبديل الفيديو عند الضغط على صف الجدول
+        videoTable.addEventListener('click', (e) => {
+            const row = e.target.closest('tr');
+            if (row) {
+                const videoSrc = row.getAttribute('data-src');
+                mainVideo.querySelector('source').src = videoSrc;
+                mainVideo.load(); // إعادة تحميل الفيديو الجديد
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutAdvanc.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tracks - Online Learning Platform</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    
+<style>
+    aside{
+        background-color: #007bff
+    }
+
+</style>
+</head>
+<body>
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar -->
+        <aside class="col-md-3 sidebar  text-white p-4"  style="min-height: 100vh ;">
+            <div class="text-center mb-4">
+                <img src="~/images/2-removebg-preview.png" alt="Logo" class="img-fluid rounded-circle" style="width: 150px; height: 150px;">
+            </div>
+            <nav class="menu">
+                <ul class="nav flex-column">
+                    <li class="nav-item mb-2">
+                        <a href="@Url.Action("Dashboard", "Dashboard")" class="nav-link text-white">
+                            <i class="fas fa-tachometer-alt mr-2"></i> Dashboard
+                        </a>
+                    </li>
+                    <li class="nav-item mb-2">
+                        <a asp-action="Index" asp-controller="Instructor" class="nav-link text-white">
+                            <i class="fas fa-chalkboard-teacher mr-2"></i> Instructor
+                        </a>
+                    </li>
+                    <li class="nav-item mb-2">
+                        <a asp-action="Index" asp-controller="Course" class="nav-link text-white">
+                            <i class="fas fa-book mr-2"></i> Course
+                        </a>
+                    </li>
+                    <li class="nav-item mb-2">
+                        <a asp-action="Index" asp-controller="Track" class="nav-link text-white">
+                            <i class="fas fa-road mr-2"></i> Track
+                        </a>
+                    </li>
+                    <li class="nav-item mb-2">
+                        <a asp-action="AddRole" asp-controller="Role" class="nav-link text-white">
+                            <i class="fas fa-user-tag mr-2"></i> Add Role
+                        </a>
+                    </li>
+                    <li class="nav-item mb-2">
+                        <a asp-action="RegisterAdmin" asp-controller="Account" class="nav-link text-white">
+                            <i class="fas fa-user-shield mr-2"></i> Add Admin
+                        </a>
+                    </li>
+                    <li class="nav-item mt-3">
+                        <a asp-action="SignOut"  asp-controller="Account" class="btn btn-danger w-100">
+                            <i class="fas fa-sign-out-alt mr-2"></i> Logout
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="col-md-9 p-5">
+            <h1 class="mb-4">Welcome to the Dashboard</h1>
+            <div class="row">
+                <!-- Card 1 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Instructors</h5>
+                            <p class="card-text">Manage all instructors from here.</p>
+                            <a asp-action="Index" asp-controller="Instructor" class="btn btn-primary">View Instructors</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Courses</h5>
+                            <p class="card-text">Manage and organize courses.</p>
+                            <a asp-action="Index" asp-controller="Course" class="btn btn-primary">View Courses</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Tracks</h5>
+                            <p class="card-text">Explore all available tracks .</p>
+                            <a asp-action="Index" asp-controller="Track" class="btn btn-primary">View Tracks</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>
+        
+
+</body>
+</html>
+<!-- Bootstrap and Font Awesome Scripts -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>

@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tracks - Online Learning Platform</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+@model Online_Learning_Platform.Models.Instructor
+</head>
+<body>
+
+
+<h2>Create Instructor</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label for="imageFile">Upload Image</label>
+        <input type="file" name="imageFile" class="form-control" />
+    </div>
+
+    <div>
+        <label asp-for="TrackId"></label>
+        <select asp-for="TrackId" class="form-control">
+            @foreach (var track in ViewData["TrackList"] as List<Online_Learning_Platform.Models.Track>)
+            {
+                <option value="@track.TrackId">@track.Name</option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <label asp-for="CourseId"></label>
+        <select asp-for="CourseId" class="form-control">
+            @foreach (var course in ViewData["CourseList"] as List<Online_Learning_Platform.Models.Course>)
+            {
+                <option value="@course.CourseId">@course.Title</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+</body>
+</html>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

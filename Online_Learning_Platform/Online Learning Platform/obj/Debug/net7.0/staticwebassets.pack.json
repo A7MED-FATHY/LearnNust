@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Online Learning Platform.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Online Learning Platform.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\Videos\\Html_Video1.mp4",
+      "PackagePath": "staticwebassets\\Videos\\Html_Video1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\Videos\\Html_Video2.mp4",
+      "PackagePath": "staticwebassets\\Videos\\Html_Video2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\Videos\\Html_Video3.mp4",
+      "PackagePath": "staticwebassets\\Videos\\Html_Video3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\Videos\\Html_Video4.mp4",
+      "PackagePath": "staticwebassets\\Videos\\Html_Video4.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\Videos\\Html_Video5.mp4",
+      "PackagePath": "staticwebassets\\Videos\\Html_Video5.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\css\\style-books.css",
+      "PackagePath": "staticwebassets\\css\\style-books.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\css\\style-teacher.css",
+      "PackagePath": "staticwebassets\\css\\style-teacher.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\css\\style_video.css",
+      "PackagePath": "staticwebassets\\css\\style_video.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\.net.png",
+      "PackagePath": "staticwebassets\\images\\.net.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\.netpng.png",
+      "PackagePath": "staticwebassets\\images\\.netpng.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\2-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\2-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\Ahmed.jpg",
+      "PackagePath": "staticwebassets\\images\\Ahmed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\C#.png",
+      "PackagePath": "staticwebassets\\images\\C#.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\DSC_7824.jpg",
+      "PackagePath": "staticwebassets\\images\\DSC_7824.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\Dart.png",
+      "PackagePath": "staticwebassets\\images\\Dart.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\How-to-Become-a-Front-End-Developer-in-2020.png",
+      "PackagePath": "staticwebassets\\images\\How-to-Become-a-Front-End-Developer-in-2020.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\Inst1jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\Inst1jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\LearnNest-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\LearnNest-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\Netpng.png",
+      "PackagePath": "staticwebassets\\images\\Netpng.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\WhatsApp Image 2024-06-12 at 16.06.49_13d75c20.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2024-06-12 at 16.06.49_13d75c20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\back.png",
+      "PackagePath": "staticwebassets\\images\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\backins.jpg",
+      "PackagePath": "staticwebassets\\images\\backins.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\c#jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\c#jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\csharb.png",
+      "PackagePath": "staticwebassets\\images\\csharb.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\css.jpeg",
+      "PackagePath": "staticwebassets\\images\\css.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\flutter.png",
+      "PackagePath": "staticwebassets\\images\\flutter.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\html.png",
+      "PackagePath": "staticwebassets\\images\\html.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\images.png",
+      "PackagePath": "staticwebassets\\images\\images.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\inst.jpg",
+      "PackagePath": "staticwebassets\\images\\inst.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\instructor4.jpg",
+      "PackagePath": "staticwebassets\\images\\instructor4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\instructorjpg.jpg",
+      "PackagePath": "staticwebassets\\images\\instructorjpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\java.png",
+      "PackagePath": "staticwebassets\\images\\java.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\javaScribt.png",
+      "PackagePath": "staticwebassets\\images\\javaScribt.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\logoCodebox.png",
+      "PackagePath": "staticwebassets\\images\\logoCodebox.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\main.png",
+      "PackagePath": "staticwebassets\\images\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\mobilejpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\mobilejpeg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\images\\sql.png",
+      "PackagePath": "staticwebassets\\images\\sql.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\js\\sec.js",
+      "PackagePath": "staticwebassets\\js\\sec.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\learn_online_chat_messages_woman_workspace_icon_176886.ico",
+      "PackagePath": "staticwebassets\\learn_online_chat_messages_woman_workspace_icon_176886.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Fathy\\source\\repos\\Online Learning Platform\\Online Learning Platform\\wwwroot\\logoCodebox.ico",
+      "PackagePath": "staticwebassets\\logoCodebox.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Online Learning Platform.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Online Learning Platform.props",
+      "PackagePath": "build\\Online Learning Platform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Online Learning Platform.props",
+      "PackagePath": "buildMultiTargeting\\Online Learning Platform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Online Learning Platform.props",
+      "PackagePath": "buildTransitive\\Online Learning Platform.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

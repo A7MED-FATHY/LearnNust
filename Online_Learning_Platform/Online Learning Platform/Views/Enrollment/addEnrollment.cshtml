@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "addEnrollment";
+}
+@model Enrollment
+
+<h2>Add New Enrollment</h2>
+
+<form asp-action="SaveAdd" method="post">
+    <div class="form-group">
+        <label for="CourseId">Course</label>
+        <select class="form-control" id="CourseId" name="CourseId">
+            @foreach (var course in ViewBag.Courses)
+            {
+                <option value="@course.CourseId">@course.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="UserId">User</label>
+        <select class="form-control" id="UserId" name="UserId">
+            @foreach (var user in ViewBag.Users)
+            {
+                <option value="@user.UserId">@user.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+

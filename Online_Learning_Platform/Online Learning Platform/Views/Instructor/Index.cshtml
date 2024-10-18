@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tracks - Online Learning Platform</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          @model List<Online_Learning_Platform.Models.Instructor>
+</head>
+<body>
+
+<h2>Instructors List</h2>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Track</th>
+            <th>Course</th>
+            <th>Image</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var instructor in Model)
+        {
+            <tr>
+                <td>@instructor.InstructorId</td>
+                <td>@instructor.Name</td>
+                <td>@instructor.Tracks?.Name</td>
+                <td>@instructor.Course?.Title</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(instructor.Image))
+                    {
+                        <img src="@instructor.Image" alt="@instructor.Name" width="100" height="100" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@instructor.InstructorId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@instructor.InstructorId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Add New Instructor</a>
+</body>
+</html>
